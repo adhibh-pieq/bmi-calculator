@@ -14,7 +14,7 @@ Created with _create-react-app_. See the [full create-react-app guide](https://g
 
 `npm install`
 
-## Command to Run
+## Command to Run project
 
 `npm start`
 
